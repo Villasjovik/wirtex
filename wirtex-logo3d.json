@@ -1,0 +1,13 @@
+{
+  "svgPath": "/Users/lucasm4max/Desktop/Claude/operational/projekt/villa-sjovik/pitchar/wirtex/wirtex.svg",
+  "svgFilename": "wirtex.svg",
+  "brandColor": "#FFFFFF",
+  "brandColorHex": "0xFFFFFF",
+  "dominantDetected": "#FFFFFF",
+  "isLightLogo": true,
+  "twoColour": false,
+  "material": "pearl",
+  "source": "wirtex.at header wordmark — https://wirtex.at/cdn/shop/files/logo-text-weiss.png (252x80, white-on-transparent, the only published master). Alpha channel extracted, upscaled to 3024px and potrace-vectorised; no letterforms redrawn.",
+  "renderNote": "Wirtex's only published logo is the white wordmark 'WIRTEX / SEIT 1863'. Rendered with data-material=\"pearl\" (0xf5f1eb) so it keeps its off-white original colour against the dark hero instead of being tinted. LOGO_ab_2025.jpg on their CDN is the OEKO-TEX certification badge, not a brand logo — do not use it.",
+  "generatedAt": "2026-07-30T12:07:00.000Z"
+}
